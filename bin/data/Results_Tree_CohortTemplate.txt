@@ -1,0 +1,221 @@
+
+******3-Fold -- Tree for Original Data*****
+
+
+Summary: 
+Correctly Classified Instances       21158              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances            21158     
+
+Percentage Correct: 100.0
+Percentage Incorrect: 0.0
+Root Mean Squared Error: 0.0
+Kappa: 1.0
+
+******3-Fold -- Tree for CohortTemplate-2.arff*****
+
+
+Summary: 
+Correctly Classified Instances        5863               29.2346 %
+Incorrectly Classified Instances     14192               70.7654 %
+Kappa statistic                          0.2688
+Mean absolute error                      0.0368
+Root mean squared error                  0.1602
+Relative absolute error                 77.7716 %
+Root relative squared error            104.1715 %
+Coverage of cases (0.95 level)          51.1045 %
+Mean rel. region size (0.95 level)       7.7905 %
+Total Number of Instances            20055     
+
+Percentage Correct: 29.234604836699077
+Percentage Incorrect: 70.76539516330092
+Root Mean Squared Error: 0.1601649795568683
+Kappa: 0.26880632494900253
+
+******3-Fold -- Tree for CohortTemplate-4.arff*****
+
+
+Summary: 
+Correctly Classified Instances        8518               43.9571 %
+Incorrectly Classified Instances     10860               56.0429 %
+Kappa statistic                          0.4204
+Mean absolute error                      0.0291
+Root mean squared error                  0.1499
+Relative absolute error                 61.7395 %
+Root relative squared error             97.5516 %
+Coverage of cases (0.95 level)          58.6799 %
+Mean rel. region size (0.95 level)       5.1605 %
+Total Number of Instances            19378     
+
+Percentage Correct: 43.95706471256064
+Percentage Incorrect: 56.04293528743936
+Root Mean Squared Error: 0.1498541302210589
+Kappa: 0.42043563152836894
+
+******3-Fold -- Tree for CohortTemplate-6.arff*****
+
+
+Summary: 
+Correctly Classified Instances        9235               51.9842 %
+Incorrectly Classified Instances      8530               48.0158 %
+Kappa statistic                          0.5025
+Mean absolute error                      0.025 
+Root mean squared error                  0.1401
+Relative absolute error                 53.0802 %
+Root relative squared error             91.2788 %
+Coverage of cases (0.95 level)          64.4469 %
+Mean rel. region size (0.95 level)       4.5468 %
+Total Number of Instances            17765     
+
+Percentage Correct: 51.98423867154517
+Percentage Incorrect: 48.01576132845483
+Root Mean Squared Error: 0.140063457817858
+Kappa: 0.5024668865174153
+
+******3-Fold -- Tree for CohortTemplate-8.arff*****
+
+
+Summary: 
+Correctly Classified Instances        6977               54.0643 %
+Incorrectly Classified Instances      5928               45.9357 %
+Kappa statistic                          0.5197
+Mean absolute error                      0.024 
+Root mean squared error                  0.1389
+Relative absolute error                 51.4396 %
+Root relative squared error             90.9141 %
+Coverage of cases (0.95 level)          64.8431 %
+Mean rel. region size (0.95 level)       4.4008 %
+Total Number of Instances            12905     
+
+Percentage Correct: 54.06431615652848
+Percentage Incorrect: 45.93568384347152
+Root Mean Squared Error: 0.13887083899448843
+Kappa: 0.5196533585443273
+
+******3-Fold -- Tree for CohortTemplate-10.arff*****
+
+
+Summary: 
+Correctly Classified Instances        4845               60.5549 %
+Incorrectly Classified Instances      3156               39.4451 %
+Kappa statistic                          0.5753
+Mean absolute error                      0.0205
+Root mean squared error                  0.1293
+Relative absolute error                 45.163  %
+Root relative squared error             85.915  %
+Coverage of cases (0.95 level)          70.6412 %
+Mean rel. region size (0.95 level)       3.8617 %
+Total Number of Instances             8001     
+
+Percentage Correct: 60.55493063367079
+Percentage Incorrect: 39.44506936632921
+Root Mean Squared Error: 0.12931235970817895
+Kappa: 0.5752513576826237
+
+******3-Fold -- Tree for CohortTemplate-12.arff*****
+
+
+Summary: 
+Correctly Classified Instances        1467               75.3854 %
+Incorrectly Classified Instances       479               24.6146 %
+Kappa statistic                          0.6817
+Mean absolute error                      0.0129
+Root mean squared error                  0.1024
+Relative absolute error                 34.0399 %
+Root relative squared error             74.5825 %
+Coverage of cases (0.95 level)          83.4018 %
+Mean rel. region size (0.95 level)       3.4054 %
+Total Number of Instances             1946     
+
+Percentage Correct: 75.38540596094553
+Percentage Incorrect: 24.61459403905447
+Root Mean Squared Error: 0.10241589342645843
+Kappa: 0.6816567045003582
+
+******3-Fold -- Tree for CohortTemplate-14.arff*****
+
+
+Summary: 
+Correctly Classified Instances        9391               61.6369 %
+Incorrectly Classified Instances      5845               38.3631 %
+Kappa statistic                          0.5986
+Mean absolute error                      0.0199
+Root mean squared error                  0.128 
+Relative absolute error                 42.7539 %
+Root relative squared error             83.8554 %
+Coverage of cases (0.95 level)          70.1759 %
+Mean rel. region size (0.95 level)       3.8069 %
+Total Number of Instances            15236     
+
+Percentage Correct: 61.63691257547913
+Percentage Incorrect: 38.36308742452087
+Root Mean Squared Error: 0.12803670390411143
+Kappa: 0.5985927653833738
+
+******3-Fold -- Tree for CohortTemplate-16.arff*****
+
+
+Summary: 
+Correctly Classified Instances        7324               59.1647 %
+Incorrectly Classified Instances      5055               40.8353 %
+Kappa statistic                          0.571 
+Mean absolute error                      0.0212
+Root mean squared error                  0.1321
+Relative absolute error                 45.617  %
+Root relative squared error             86.6726 %
+Coverage of cases (0.95 level)          68.9232 %
+Mean rel. region size (0.95 level)       3.8539 %
+Total Number of Instances            12379     
+
+Percentage Correct: 59.16471443573794
+Percentage Incorrect: 40.83528556426206
+Root Mean Squared Error: 0.13207963306346335
+Kappa: 0.5709790538519359
+
+******3-Fold -- Tree for CohortTemplate-18.arff*****
+
+
+Summary: 
+Correctly Classified Instances        7234               63.5286 %
+Incorrectly Classified Instances      4153               36.4714 %
+Kappa statistic                          0.6141
+Mean absolute error                      0.0187
+Root mean squared error                  0.1249
+Relative absolute error                 40.5825 %
+Root relative squared error             82.2251 %
+Coverage of cases (0.95 level)          71.9153 %
+Mean rel. region size (0.95 level)       3.6329 %
+Total Number of Instances            11387     
+
+Percentage Correct: 63.52858522876965
+Percentage Incorrect: 36.47141477123035
+Root Mean Squared Error: 0.12486923300312408
+Kappa: 0.614148922104244
+
+******3-Fold -- Tree for CohortTemplate-20.arff*****
+
+
+Summary: 
+Correctly Classified Instances        6913               66.1975 %
+Incorrectly Classified Instances      3530               33.8025 %
+Kappa statistic                          0.641 
+Mean absolute error                      0.0174
+Root mean squared error                  0.1209
+Relative absolute error                 37.8459 %
+Root relative squared error             79.7523 %
+Coverage of cases (0.95 level)          72.5175 %
+Mean rel. region size (0.95 level)       3.5234 %
+Total Number of Instances            10443     
+
+Percentage Correct: 66.19745283922245
+Percentage Incorrect: 33.80254716077756
+Root Mean Squared Error: 0.12090033490605837
+Kappa: 0.6410453993007571
+
